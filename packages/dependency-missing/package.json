@@ -1,0 +1,16 @@
+{
+  "name": "dependency-missing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test:bin": "jest",
+    "test:node": "node node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29"
+  }
+}
